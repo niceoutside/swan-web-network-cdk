@@ -1,5 +1,5 @@
 export const domains = {
-  root: "mydomain.com",
+  root: "swanmirror.xyz",
 };
 
 export const subdomains = {

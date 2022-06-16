@@ -1,6 +1,6 @@
 export const accounts = {
-  pipeline: "<Account ID>", // account hosting the pipeline
-  rootDomain: "<Account ID>", // account hosting the root hosted zone
-  dev: "<Account ID>", // account hosting the dev hosted zone
-  prod: "<Account ID>", // account hosting the prod hosted zone
+  pipeline: "050205021871", // shared-infra
+  rootDomain: "050205021871", // shared-infra
+  dev: "172766386178",
+  prod: "743400999178",
 };

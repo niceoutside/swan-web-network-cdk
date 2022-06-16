@@ -2,5 +2,9 @@
   "hosted-zone:account=712363797299:domainName=awsexample.de:region=eu-central-1": {
     "Id": "/hostedzone/Z104540915UQMEKZ5T2QC",
     "Name": "awsexample.de."
+  },
+  "hosted-zone:account=050205021871:domainName=swanmirror.xyz:region=eu-central-1": {
+    "Id": "/hostedzone/Z08154292R6G8UKIRD2EB",
+    "Name": "swanmirror.xyz."
   }
 }
